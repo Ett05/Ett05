@@ -1,6 +1,6 @@
 ### Hi There! My name is Girik Setya 👋
-# 💫 About Me:
-🧑‍💻 I am a first year CS Student @ Uoft St. George<br> 🧠 I am learning Python, JS, Tensorflow, Scikit Learn, React<br>
+# 💫 About Me:  CS Student @ Uoft St. George
+🧑‍💻 I am a first year<br> 🧠 I am learning Python, JS, Tensorflow, Scikit Learn, React<br>
 
 
 ## 🌐 Socials:
