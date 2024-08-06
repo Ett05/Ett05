@@ -1,8 +1,8 @@
 ### Hi There! My name is Girik Setya 👋
 # 💫 About Me:  
 <ul>
-  <li>🧑‍💻 I am a first year CS Student @ Uoft St. George</li>
-  <li>🧠 I am currently working on Projects involving: Python, JS, Pandas, Numpy, React</li>
+  <li>🧑‍💻 I am a second year CS Student @ UOFT St. George</li>
+  <li>🧠 I am currently working on Projects involving: Python, JS, Pandas, Numpy, React, Tensorflow</li>
 </ul>
 
 
