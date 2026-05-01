@@ -4,8 +4,8 @@
 <ul>
   <li>🧑‍💻 Third Year Computer Science student at the University of Toronto St. George</li>
   <li>🚀 Previously a Machine Learning Engineer Intern at NetNow, focused on agentic orchestration and LLM pipelines</li>
-  <li>🛠️ Experienced in building full-stack platforms and deploying containerized ML microservices</li>
-  <li>⚡ Passionate about Parallel Computing, Computer Architecture, and Scalable AI</li>
+  <li>💼 Incoming SWE Intern at Asana (Summer 2025)</li>
+  <li>⚡ Interested in LLM inference optimization, CUDA kernels, and systems-level AI work</li>
 </ul>
 
 ## 🌐 Socials:
