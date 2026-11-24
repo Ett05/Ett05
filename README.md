@@ -6,7 +6,6 @@
   <li>💼 Previously a Software Engineer Intern at Asana (Summer 2026), working on checkout conversion flows, React/TypeScript purchase-flow frameworks, and testing harnesses</li>
   <li>🚀 Previously an AI &amp; Software Engineer Intern at NetNow (2025), focused on LangGraph agentic orchestration, LLM-as-a-judge evaluation pipelines, and Gemini workflows on GCP</li>
   <li>⚡ Building at the intersection of AI and systems engineering — custom Triton/CUDA kernels, LLM inference optimization, and high-throughput web systems</li>
-  <li>🌐 <a href="https://giriksetya.com">giriksetya.com</a> · <a href="https://linkedin.com/in/girik-setya">LinkedIn</a> · <a href="https://x.com/GirikSetya">X</a></li>
 </ul>
 
 # 💻 Tech Stack:
